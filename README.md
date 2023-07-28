@@ -11,7 +11,7 @@ Mi nombre es Marcos Mateo y soy un desarrollador apasionado por el backend y la 
 
 ## 👯 Colaboración
 
-¡Estoy abierto/a a colaboraciones y proyectos interesantes! Siempre estoy dispuesto/a a aprender y contribuir a la comunidad de código abierto.
+¡Estoy abierto a colaboraciones y proyectos interesantes! Siempre estoy dispuesto a aprender y contribuir a la comunidad de código abierto.
 
 ## 📫 Cómo contactarme
 
