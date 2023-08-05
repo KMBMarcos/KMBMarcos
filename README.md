@@ -13,7 +13,8 @@ Mi nombre es Marcos Mateo. Programador Python, trabajando para mejorar mis tecno
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes! Siempre estoy dispuesto a aprender y contribuir a la comunidad de código abierto.
 
-## 📫 Cómo contactarme
+## 📫 Mis redes
 
  - Email: marcosmateot@gmail.com
  - Linkedin: https://www.linkedin.com/in/marcos-mateo-7013991ba
+ - Wakatime: https://wakatime.com/@k4mby
