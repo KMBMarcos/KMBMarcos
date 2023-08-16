@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido/a a mi perfil de GitHub!
+¡Bienvenido a mi perfil!
 Mi nombre es Marcos Mateo. Programador Python, trabajando para mejorar mis tecnologias de programacion y mis conocimientos. Me encatna colaborar con otros programadores, me gusta resolver retos de programacion. 
 
 ## 🚀 Mis habilidades
