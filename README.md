@@ -1,5 +1,7 @@
 # ¡Hola! 👋
+
 [![wakatime](https://wakatime.com/badge/user/f68f6773-2c77-49c5-90d2-d3fb829ee671.svg)](https://wakatime.com/@f68f6773-2c77-49c5-90d2-d3fb829ee671)
+
 ¡Bienvenido a mi perfil!
 Mi nombre es Marcos Mateo. Programador Python, trabajando para mejorar mis tecnologias de programacion y mis conocimientos. Me encatna colaborar con otros programadores, me gusta resolver retos de programacion. 
 
