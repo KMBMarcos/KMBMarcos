@@ -1,6 +1,7 @@
 # ¡Hola! 👋
 
 [![wakatime](https://wakatime.com/badge/user/f68f6773-2c77-49c5-90d2-d3fb829ee671.svg)](https://wakatime.com/@f68f6773-2c77-49c5-90d2-d3fb829ee671)
+https://www.codewars.com/users/KM.B/badges/small
 
 ¡Bienvenido a mi perfil!
 Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando para resolver problemas con este lenguaje tan versatil, me encante con la sencillez con la que se pueden resolver problema con este lenguaje. 
