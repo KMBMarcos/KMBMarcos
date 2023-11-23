@@ -5,7 +5,7 @@
 ¡Bienvenido a mi perfil!
 Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando para resolver problemas con este lenguaje tan versatil, me encante con la sencillez con la que se pueden resolver problema con este lenguaje. 
 
-## 🚀 Tecnologías
+## 🚀 Stack
 
 - Lenguajes de programación: Python, C#, HTML, CSS.
 - Bases de datos: SQL Server, MySQL, MongoDB, MariaDB.
