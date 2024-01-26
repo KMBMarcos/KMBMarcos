@@ -1,4 +1,4 @@
-# ¡I'm Programmer xD! 👋
+# ¡I'm development xD! 👋
 
 [![wakatime](https://wakatime.com/badge/user/f68f6773-2c77-49c5-90d2-d3fb829ee671.svg)](https://wakatime.com/@f68f6773-2c77-49c5-90d2-d3fb829ee671)
 
