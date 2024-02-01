@@ -15,7 +15,7 @@ Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando 
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes! Siempre estoy dispuesto a aprender y contribuir a la comunidad de código abierto.
 
-## 📫 Mis redes
+## 📫 Contactos
 
  - Email: marcosmateot@gmail.com
  - Linkedin: https://www.linkedin.com/in/marcos-mateo-7013991ba
