@@ -19,3 +19,6 @@ Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando 
 
  - Email: marcosmateot@gmail.com
  - Linkedin: https://www.linkedin.com/in/marcos-mateo-7013991ba
+
+## Mi roadmap actual
+[![roadmap.sh](https://roadmap.sh/card/wide/66b98057b64402e0528b3c8c?variant=dark&roadmaps=data-analyst%2Cpython)](https://roadmap.sh)
