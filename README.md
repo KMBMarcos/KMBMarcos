@@ -19,8 +19,9 @@ Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando 
 
  - Email: marcosmateot@gmail.com
  - Linkedin: https://www.linkedin.com/in/marcos-mateo-7013991ba
+
 ## Mis stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmbmarcos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmbmarcos&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mi roadmap actual
 [![roadmap.sh](https://roadmap.sh/card/wide/66b98057b64402e0528b3c8c?variant=dark&roadmaps=data-analyst%2Cpython)](https://roadmap.sh)
