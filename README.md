@@ -7,7 +7,7 @@ Mi nombre es Marcos Mateo. Programador Python, aficionado de python, trabajando 
 
 ## 🚀 Stack
 
-- Lenguajes de programación: Python, C#, HTML, CSS.
+- Lenguajes de programación: Python & C#.
 - Bases de datos: SQL Server, MySQL, MongoDB, MariaDB.
 - Control de versiones: Git.
 
