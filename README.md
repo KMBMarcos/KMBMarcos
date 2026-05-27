@@ -3,7 +3,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   M A R C O S   M A T E O                                    ║
+║                   M A R C O S   M A T E O                    ║
+║                                                              ║
 ║   Backend Engineer  ·  Systems Thinker  ·  API Craftsman     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -49,19 +50,21 @@ approach:   Build it clean. Make it scale. Document it properly.
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=6E9EF7)
 ![C#](https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=6E9EF7)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-1a1a2e?style=flat-square&logo=dotnet&logoColor=6E9EF7)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=flat-square&logo=flask&logoColor=6E9EF7)
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=6E9EF7)
 
 **Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a2e?style=flat-square&logo=microsoftsqlserver&logoColor=6E9EF7)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=6E9EF7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=6E9EF7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=6E9EF7)
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS_EC2-1a1a2e?style=flat-square&logo=amazonec2&logoColor=6E9EF7)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=6E9EF7)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=6E9EF7)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=6E9EF7)
 
 ---
 
@@ -98,8 +101,6 @@ currently_learning:
   - Scalable system design principles
 
 next_on_queue:
-  - FastAPI for high-performance APIs
-  - Docker & containerization patterns
   - Data pipelines & ETL architecture
 
 long_term_direction:
@@ -110,20 +111,14 @@ long_term_direction:
 
 ---
 
-## `$ gh stats --user=marcosmateo`
+<!-- ## `$ gh stats --user=kmbmarcos`
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosmateo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E9EF7&icon_color=6E9EF7&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmateo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9EF7&text_color=c9d1d9&langs_count=6" />
-
-</div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcosmateo&theme=tokyonight&hide_border=true&background=0d1117&ring=6E9EF7&fire=6E9EF7&currStreakLabel=6E9EF7)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ---
 
@@ -131,11 +126,9 @@ long_term_direction:
 
 <div align="center">
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosmateo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9EF7&text_color=c9d1d9&layout=compact)](https://wakatime.com/@marcosmateo)
+[![wakatime](https://wakatime.com/badge/user/f68f6773-2c77-49c5-90d2-d3fb829ee671.svg)](https://wakatime.com/@f68f6773-2c77-49c5-90d2-d3fb829ee671)
 
 </div>
-
-> _Replace `marcosmateo` with your actual WakaTime username after connecting it at [wakatime.com](https://wakatime.com)_
 
 ---
 
@@ -143,9 +136,9 @@ long_term_direction:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6E9EF7)](https://linkedin.com/in/marcosmateo)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6E9EF7)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6E9EF7)](https://github.com/marcosmateo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6E9EF7)](https://www.linkedin.com/in/marcos-mateo-tiburcio-7013991ba/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6E9EF7)](mailto:marcosmateot@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=6E9EF7)](https://www.instagram.com/__jayhock__/)
 
 </div>
 
