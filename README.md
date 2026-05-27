@@ -158,5 +158,5 @@ long_term_direction:
 ---
 
 <div align="center">
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=marcosmateo&color=6E9EF7&style=flat-square&label=visits" /></sub>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=kmbmarcos&color=6E9EF7&style=flat-square&label=visits" /></sub>
 </div>
