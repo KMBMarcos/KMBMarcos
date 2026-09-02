@@ -120,8 +120,6 @@ long_term_direction:
 
 </div> -->
 
----
-
 ## `$ wakatime --summary`
 
 <div align="center">
